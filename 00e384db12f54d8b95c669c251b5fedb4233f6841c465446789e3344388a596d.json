@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Provider from \"./provider\";\nexport * from \"./provider\";\nexport default Provider;","map":{"version":3,"names":["Provider"],"sources":["../../src/index.ts"],"sourcesContent":[null],"mappings":"AAAA,OAAOA,QAAQ,MAAM,YAAY;AAEjC,cAAc,YAAY;AAE1B,eAAeA,QAAQ"},"metadata":{},"sourceType":"module","externalDependencies":[]}
